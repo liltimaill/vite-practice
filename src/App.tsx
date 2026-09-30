@@ -9,7 +9,7 @@ function App() {
         <p className="text-sm font-semibold text-blue-700">インフラストラクチャ構築演習</p>
         <h1 className="mt-3 text-4xl font-bold">Vite Practice</h1>
         <h2 className="mt-4 text-2xl font-semibold" data-testid="deployment-text">
-          GitHub Pages Test
+          GitHub Pages Update Test
         </h2>
         <p className="mt-4 leading-7 text-slate-600">
           Vite + React + TypeScript + Tailwind CSSで作成したWebサイトです。
